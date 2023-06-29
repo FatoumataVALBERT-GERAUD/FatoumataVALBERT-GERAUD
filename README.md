@@ -8,7 +8,7 @@
 
 ✉️  You can contact me at [fatoumatavalbert@gmail.com](mailto:fatoumatavalbert@gmail.com)
 
-🧠  I'm learning unit testing with Jest and curious about so many other things
+🧠  I'm learning unit testing with Jest and I'm curious about so many other things
 
 ⚡  Fun fact: my middle name is Perferct (I'm not joking)
 
