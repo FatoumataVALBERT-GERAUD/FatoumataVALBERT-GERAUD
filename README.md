@@ -1,4 +1,4 @@
-# Hi my name is Fatoumata VALBERT-GERAUD
+# Hi! My name is Fatoumata VALBERT-GERAUD
 
 **I'm a junior web developer**
 
