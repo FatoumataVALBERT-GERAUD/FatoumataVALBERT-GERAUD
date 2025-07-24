@@ -1,14 +1,14 @@
-# Hi! My name is Fatoumata VALBERT-GERAUD
+# Hi! My name is Fatoumata VALBERT-GERAUD.
 
-**I'm a junior web developer**
+**I'm a junior web developer.**
 
-🌍  I'm based in Toulouse, France
+🌍  I'm based in Toulouse, France.
 
 🖥️  See my portfolio at [Portfolio](http://fatoumatavalbert-geraud.github.io/Portfolio-Fatou/)
 
 ✉️  You can contact me at [fatoumatavalbert@gmail.com](mailto:fatoumatavalbert@gmail.com)
 
-⚡  Fun fact: my middle name is Perferct (I'm not joking)
+⚡  Fun fact: my middle name is Perfect (I'm not joking).
 
 ### Skills
 
