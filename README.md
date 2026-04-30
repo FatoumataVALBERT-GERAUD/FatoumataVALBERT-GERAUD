@@ -1,8 +1,6 @@
 # Hi there! My name is Fatoumata VALBERT-GERAUD.
 
-**I'm a junior web developer.**
-
-🌍  I'm based in Toulouse, France.
+**I'm a junior web developer based in Toulouse, France.**
 
 🖥️  See my portfolio at [Portfolio](http://fatoumatavalbert-geraud.github.io/Portfolio-Fatou/)
 
